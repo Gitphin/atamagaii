@@ -1,0 +1,12 @@
+# venv
+myenv
+
+# pycache
+__pycache__/
+*.py[cod]
+
+# text files
+*.txt
+
+# bat
+*.bat

@@ -35,3 +35,6 @@ As you may be well aware there are plenty of "to-do" apps already out there that
 - CI/CD (GitHub Actions)
 - Prometheus
 
+
+### NOTE:
+I just added a ton of Dockerfiles just to have, not all will be used obviously haha
